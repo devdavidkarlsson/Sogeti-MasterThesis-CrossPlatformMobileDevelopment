@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prototype1Test/CSharpTransformTest.cs">
+    <Files>
+      <File FileName="Prototype1/AppDelegate.cs" Line="21" Column="4" />
+      <File FileName="Prototype1/Info.plist" />
+      <File FileName="Prototype1Test/UnitTestAppDelegate.cs" Line="35" Column="40" />
+      <File FileName="Prototype1/Prototype1ViewController.cs" Line="1" Column="1" />
+      <File FileName="Prototype1Test/CSharpTransformTest.cs" Line="12" Column="17" />
+      <File FileName="Prototype1/CSharpTransform.cs" Line="17" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

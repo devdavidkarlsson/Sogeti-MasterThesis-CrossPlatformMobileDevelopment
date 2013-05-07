@@ -1,0 +1,103 @@
+<!-- Main.axml -->
+
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:onClick="clearFocus"
+    tools:context=".MainActivity">
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="720dp"
+        android:layout_height="1280dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/prototype1_bg" />
+    <ImageView
+        android:id="@+id/ImageView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="144dp"
+        android:alpha=".5"
+        android:contentDescription="@string/imgArrow"
+        android:src="@drawable/arrow" />
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ImageView01"
+        android:layout_alignLeft="@+id/ImageView01"
+        android:layout_marginBottom="83dp"
+        android:alpha=".5"
+        android:contentDescription="@string/imgArrow"
+        android:src="@drawable/arrow" />
+    <TextView
+        android:id="@+id/txtOutput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/ImageView01"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="84dp"
+        android:ems="10"
+        android:textColor="@android:color/black"
+        android:width="@dimen/txtInputWidth" />
+    <EditText
+        android:id="@+id/txtInput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:ems="10"
+        android:inputType="text"
+        android:textColor="@android:color/black"
+        android:width="@dimen/txtInputWidth">
+        <requestFocus />
+    </EditText>
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnGo"
+        android:layout_alignBottom="@+id/btnGo"
+        android:layout_alignParentLeft="true"
+        android:text="@string/Transform"
+        android:alpha=".5"
+        android:textColor="@android:color/black"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtOutput"
+        android:layout_alignBottom="@+id/txtOutput"
+        android:layout_alignRight="@+id/TextView01"
+        android:inputType="none"
+        android:text="@string/Output"
+        android:alpha=".5"
+        android:textColor="@android:color/black"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/txtInput"
+        android:layout_alignRight="@+id/TextView01"
+        android:text="@string/Input"
+        android:alpha=".5"
+        android:textColor="@android:color/black"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    <Button
+        android:id="@+id/btnGo"
+        android:layout_width="@dimen/txtInputWidth"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ImageView01"
+        android:layout_alignLeft="@+id/txtInput"
+        android:layout_marginBottom="26dp"
+        android:onClick="actionGo"
+        android:textColor="#000000"
+        android:text="@string/Go" />
+</RelativeLayout>

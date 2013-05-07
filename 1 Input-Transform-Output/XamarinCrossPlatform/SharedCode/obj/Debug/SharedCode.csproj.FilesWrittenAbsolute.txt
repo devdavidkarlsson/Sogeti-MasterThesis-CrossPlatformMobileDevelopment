@@ -1,0 +1,4 @@
+/Users/exjobb/code/xamarin/Prototype1/SharedCode/bin/Debug/SharedCode.dll.mdb
+/Users/exjobb/code/xamarin/Prototype1/SharedCode/bin/Debug/SharedCode.dll
+/Users/exjobb/code/xamarin/Prototype1/SharedCode/obj/Debug/SharedCode.dll
+/Users/exjobb/code/xamarin/Prototype1/SharedCode/obj/Debug/SharedCode.dll.mdb

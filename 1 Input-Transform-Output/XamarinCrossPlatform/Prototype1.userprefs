@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prototype1Android/Activity1.cs">
+    <Files>
+      <File FileName="Prototype1Test/Main.cs" Line="21" Column="1" />
+      <File FileName="Prototype1Android/Activity1.cs" Line="40" Column="5" />
+      <File FileName="Prototype1Android/Resources/values/dimens.xml" Line="1" Column="1" />
+      <File FileName="Prototype1Android/Resources/values/Strings.xml" Line="1" Column="1" />
+      <File FileName="Prototype1Android/Resources/values/styles.xml" Line="20" Column="13" />
+      <File FileName="Prototype1/MainStoryboard.storyboard" Line="25" Column="20" />
+      <File FileName="Prototype1Test/CSharpTransformTest.cs" Line="36" Column="5" />
+      <File FileName="SharedCode/CSharpTransform.cs" Line="9" Column="24" />
+      <File FileName="Prototype1/Prototype1ViewController.cs" Line="68" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Prototype1Android MonoForAntroid.PreferredTheme="Theme.Holo.NoActionBar" MonoForAntroid.PreferredDevice="4.65in 720p (Galaxy Nexus)" />
+</Properties>

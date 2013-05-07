@@ -1,0 +1,2 @@
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/bin/Debug/Prototype1Android.dll
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/bin/Debug/SharedCode.dll

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prototype1Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnGo">OK</string>
+    <string name="txtInput">Input</string>
+    <string name="txtOutput">Output</string>
+    <string name="transform">Transform</string>
+
+</resources>

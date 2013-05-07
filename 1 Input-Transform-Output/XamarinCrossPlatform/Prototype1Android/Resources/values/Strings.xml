@@ -1,0 +1,14 @@
+<!-- Strings.xml -->
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prototype1</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="imgArrow">imgArrow</string>
+    <string name="Input">Input</string>
+    <string name="Transform">Transform</string>
+    <string name="Output">Output</string>
+    <string name="Go">Go</string>
+
+</resources>

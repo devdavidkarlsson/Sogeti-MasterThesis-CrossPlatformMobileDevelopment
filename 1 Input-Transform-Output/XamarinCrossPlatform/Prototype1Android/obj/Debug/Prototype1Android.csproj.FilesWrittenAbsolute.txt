@@ -1,0 +1,17 @@
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/bin/Debug/Prototype1Android.dll.mdb
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/bin/Debug/Prototype1Android.dll
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/bin/Debug/Prototype1Android.Prototype1Android.apk
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/android/bin/Prototype1Android.Prototype1Android.apk
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/res/layout/main.xml
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/res/values/strings.xml
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/res/drawable/icon.png
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/res/drawable/arrow.png
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/res/drawable/ic_launcher.png
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/res/drawable/prototype1_bg.png
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/res/values/dimens.xml
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/res/values/styles.xml
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/R.cs.flag
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/bin/Debug/Prototype1Android.Prototype1Android-Signed.apk
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/uploadflags.txt
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/Prototype1Android.dll
+/Users/exjobb/code/xamarin/Prototype1/Prototype1Android/obj/Debug/Prototype1Android.dll.mdb

@@ -1,0 +1,1 @@
+/Users/exjobb/poco-1.5.1-all2/Foundation/obj/Android/armeabi/debug_static/uncompr.o /Users/exjobb/poco-1.5.1-all2/Foundation/obj/Android/armeabi/release_static/uncompr.o /Users/exjobb/poco-1.5.1-all2/Foundation/obj/Android/armeabi/debug_shared/uncompr.o /Users/exjobb/poco-1.5.1-all2/Foundation/obj/Android/armeabi/release_shared/uncompr.o: src/uncompr.c src/zlib.h src/zconf.h

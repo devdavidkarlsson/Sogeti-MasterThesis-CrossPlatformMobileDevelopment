@@ -1,0 +1,2 @@
+/Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/debug_static/inftrees.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/release_static/inftrees.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/debug_shared/inftrees.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/release_shared/inftrees.o: src/inftrees.c src/zutil.h src/zlib.h src/zconf.h \
+  src/inftrees.h

@@ -1,0 +1,2 @@
+/Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/debug_static/infback.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/release_static/infback.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/debug_shared/infback.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/release_shared/infback.o: src/infback.c src/zutil.h src/zlib.h src/zconf.h \
+  src/inftrees.h src/inflate.h src/inffast.h src/inffixed.h

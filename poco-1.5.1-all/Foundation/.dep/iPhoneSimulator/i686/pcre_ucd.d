@@ -1,0 +1,2 @@
+/Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/debug_static/pcre_ucd.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/release_static/pcre_ucd.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/debug_shared/pcre_ucd.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/release_shared/pcre_ucd.o: src/pcre_ucd.c src/pcre_config.h src/pcre_internal.h \
+  src/pcre.h src/ucp.h

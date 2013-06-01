@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JsonPoco</string>
+    <string name="refresh">Refresh</string>
+    <string name="save">Save</string>
+    <string name="flush">Flush</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

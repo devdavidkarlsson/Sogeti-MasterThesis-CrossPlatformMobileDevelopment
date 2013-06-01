@@ -1,0 +1,1 @@
+/Users/exjobb/poco-1.5.1-all2/Foundation/obj/Android/armeabi/debug_static/gzlib.o /Users/exjobb/poco-1.5.1-all2/Foundation/obj/Android/armeabi/release_static/gzlib.o /Users/exjobb/poco-1.5.1-all2/Foundation/obj/Android/armeabi/debug_shared/gzlib.o /Users/exjobb/poco-1.5.1-all2/Foundation/obj/Android/armeabi/release_shared/gzlib.o: src/gzlib.c src/gzguts.h src/zlib.h src/zconf.h

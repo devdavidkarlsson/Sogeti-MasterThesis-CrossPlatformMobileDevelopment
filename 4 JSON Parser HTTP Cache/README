@@ -1,0 +1,3 @@
+Cache Function
+
+In this section cache functionality will be added to the project, the purpose being to cache HTTP requests and their corresponding responses to memory and to the file system. This will test POCO’s cache implementation and the possibility to write to file from C++. This in turn will verify the fulfilment of two of the requirements, namely support for caching of HTTP and storing data in the local file system.

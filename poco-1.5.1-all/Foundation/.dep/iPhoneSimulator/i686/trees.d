@@ -1,0 +1,2 @@
+/Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/debug_static/trees.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/release_static/trees.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/debug_shared/trees.o /Users/exjobb/Downloads/poco-1.5.1-all2/Foundation/obj/iPhoneSimulator/i686/release_shared/trees.o: src/trees.c src/deflate.h src/zutil.h src/zlib.h src/zconf.h \
+  src/trees.h

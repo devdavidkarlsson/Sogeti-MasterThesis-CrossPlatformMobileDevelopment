@@ -1,0 +1,2 @@
+/Users/exjobb/Downloads/poco-1.5.1-all2//obj/iPhoneOS/armv6/debug_static/inflate.o /Users/exjobb/Downloads/poco-1.5.1-all2//obj/iPhoneOS/armv6/release_static/inflate.o /Users/exjobb/Downloads/poco-1.5.1-all2//obj/iPhoneOS/armv6/debug_shared/inflate.o /Users/exjobb/Downloads/poco-1.5.1-all2//obj/iPhoneOS/armv6/release_shared/inflate.o: src/inflate.c src/zutil.h src/zlib.h src/zconf.h \
+  src/inftrees.h src/inflate.h src/inffast.h src/inffixed.h

@@ -1,0 +1,1 @@
+/Users/exjobb/Downloads/poco-1.5.1-all2//obj/iPhoneOS/armv6/debug_static/uncompr.o /Users/exjobb/Downloads/poco-1.5.1-all2//obj/iPhoneOS/armv6/release_static/uncompr.o /Users/exjobb/Downloads/poco-1.5.1-all2//obj/iPhoneOS/armv6/debug_shared/uncompr.o /Users/exjobb/Downloads/poco-1.5.1-all2//obj/iPhoneOS/armv6/release_shared/uncompr.o: src/uncompr.c src/zlib.h src/zconf.h

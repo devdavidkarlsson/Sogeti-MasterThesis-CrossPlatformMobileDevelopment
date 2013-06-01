@@ -1,0 +1,1 @@
+/Users/exjobb/poco-1.5.1-all2/Data/SQLite/obj/iPhoneOS/armv7/debug_static/sqlite3.o /Users/exjobb/poco-1.5.1-all2/Data/SQLite/obj/iPhoneOS/armv7/release_static/sqlite3.o /Users/exjobb/poco-1.5.1-all2/Data/SQLite/obj/iPhoneOS/armv7/debug_shared/sqlite3.o /Users/exjobb/poco-1.5.1-all2/Data/SQLite/obj/iPhoneOS/armv7/release_shared/sqlite3.o: src/sqlite3.c

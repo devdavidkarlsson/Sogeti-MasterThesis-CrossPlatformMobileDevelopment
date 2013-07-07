@@ -19,3 +19,5 @@ Key Words: Cross-Platform Development, Android, Native, iOS, Xamarin, Titanium, 
 
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f22d3c07ed508ffa567d40bb11c21d15 "githalytics.com")](http://githalytics.com/devdavidkarlsson/Sogeti-MasterThesis-CrossPlatformMobileDevelopment)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/devdavidkarlsson/Sogeti-MasterThesis-CrossPlatformMobileDevelopment/trend.png)](https://bitdeli.com/free "Bitdeli Badge")

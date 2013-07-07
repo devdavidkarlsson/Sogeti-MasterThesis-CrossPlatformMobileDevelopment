@@ -13,14 +13,15 @@ The conclusion of the project is that native C++ is the most suitable method for
 
 This repository contains the code for all prototypes developed during the project. First prototypes using different technologies, and also more specialized prototypes using NDK and C++.
 
+
+
+----
+
+Contributors:
+David Karlsson, Anna Troedsson Almér.
 In the C++/NDK prototypes the library [POCO](https://github.com/pocoproject/poco) is used for some of the functionality.
 
-
-
-
-´Best Regards: David Karlsson, Anna Troedsson Almér.´
-
-
+----
 
 Key Words: Cross-Platform Development, Android, Native, iOS, Xamarin, Titanium, NDK
 

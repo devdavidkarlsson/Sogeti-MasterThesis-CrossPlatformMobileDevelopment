@@ -15,11 +15,15 @@ This repository contains the code for all prototypes developed during the projec
 
 In the C++/NDK prototypes the library [POCO](https://github.com/pocoproject/poco) is used for some of the functionality.
 
+
+
+
+´Best Regards: David Karlsson, Anna Troedsson Almér.´
+
+
+
 Key Words: Cross-Platform Development, Android, Native, iOS, Xamarin, Titanium, NDK
 
-
-
-Best Regards: David Karlsson, Anna Troedsson Almér.
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f22d3c07ed508ffa567d40bb11c21d15 "githalytics.com")](http://githalytics.com/devdavidkarlsson/Sogeti-MasterThesis-CrossPlatformMobileDevelopment)
 

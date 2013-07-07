@@ -11,19 +11,23 @@ The objectives of this project are to provide the company with a recommendation 
 
 The conclusion of the project is that native C++ is the most suitable method for this type of application. It fulfills all requirements, but further research is needed regarding performance.
 
+----
+
+###Contents:
 This repository contains the code for all prototypes developed during the project. First prototypes using different technologies, and also more specialized prototypes using NDK and C++.
 
 
 
 ----
 
-Contributors:
+###Contributors:
 David Karlsson, Anna Troedsson Almér.
 In the C++/NDK prototypes the library [POCO](https://github.com/pocoproject/poco) is used for some of the functionality.
 
 ----
 
-Key Words: Cross-Platform Development, Android, Native, iOS, Xamarin, Titanium, NDK
+###Keywords: 
+Cross-Platform Development, Android, Native, iOS, Xamarin, Titanium, NDK
 
 
 [![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f22d3c07ed508ffa567d40bb11c21d15 "githalytics.com")](http://githalytics.com/devdavidkarlsson/Sogeti-MasterThesis-CrossPlatformMobileDevelopment)

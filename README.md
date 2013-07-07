@@ -11,6 +11,8 @@ The objectives of this project are to provide the company with a recommendation 
 
 The conclusion of the project is that native C++ is the most suitable method for this type of application. It fulfills all requirements, but further research is needed regarding performance.
 
+This repository contains the code for all prototypes developed during the project. First prototypes using different technologies, and also more specialized prototypes using NDK and C++.
+
 
 Key Words: Cross-Platform Development, Android, Native, iOS, Xamarin, Titanium, NDK
 
